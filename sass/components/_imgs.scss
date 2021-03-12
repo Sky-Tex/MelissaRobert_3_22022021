@@ -1,0 +1,17 @@
+.palette {
+    @include bgd-img($img-palette);
+}
+
+.delice {
+    @include bgd-img($img-delice);
+}
+
+.francaise {
+    @include bgd-img($img-francaise);
+}
+
+.note {
+    @include bgd-img($img-note);
+    /* background-position: 0 -120px;*/
+    
+}
